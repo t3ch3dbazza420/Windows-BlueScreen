@@ -9,4 +9,4 @@ This program was created with AutoHotkey under the GNU General Public License 2.
 
 -------CHANGELOG-------
 
-1.0 - Inital release
+1.0 - Initial release
